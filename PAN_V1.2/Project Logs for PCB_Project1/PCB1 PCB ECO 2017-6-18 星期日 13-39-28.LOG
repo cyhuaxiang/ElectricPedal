@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SWCLK Pin=P?-4
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Added Pin To Net: NetName=3V3 Pin=P3-4
+Added Pin To Net: NetName=3V3 Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=SWDIO Pin=P4-3
+Added Pin To Net: NetName=SWCLK Pin=P4-4
+Added Member To Class: ClassName=Sheet2 Member=Component P3 COM

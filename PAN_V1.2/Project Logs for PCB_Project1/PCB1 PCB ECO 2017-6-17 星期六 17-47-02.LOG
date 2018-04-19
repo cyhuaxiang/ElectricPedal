@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=KT_L_H Pin=RLY1-6
+Removed Pin From Net: NetName=RELAY_L_2B Pin=RLY1-9
+Removed Pin From Net: NetName=KT_R_H Pin=RLY2-6
+Removed Pin From Net: NetName=RELAY_R_1B Pin=RLY2-9
+Added Pin To Net: NetName=VDD2 Pin=RLY1-6
+Added Pin To Net: NetName=RELAY_L_2B Pin=RLY1-7
+Added Pin To Net: NetName=KT_L_H Pin=RLY1-9
+Added Pin To Net: NetName=VDD2 Pin=RLY2-6
+Added Pin To Net: NetName=RELAY_R_1B Pin=RLY2-7
+Added Pin To Net: NetName=KT_R_H Pin=RLY2-9

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LIN1 Pin=U8-39
+Removed Pin From Net: NetName=LIN2 Pin=U8-40
+Added Pin To Net: NetName=LIN1 Pin=U8-22
+Added Pin To Net: NetName=LIN2 Pin=U8-25

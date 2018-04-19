@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PAN.PrjPCB]
+   Generated File[PAN-Plated.TXT]
+   Generated File[PAN.LDP]
+   Generated File[PAN.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:35:12 On 2017/8/14 ÐÇÆÚÒ»

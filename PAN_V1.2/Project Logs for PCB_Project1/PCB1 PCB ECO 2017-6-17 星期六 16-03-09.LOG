@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ADC_L_OUT Pin=C16-1
+Removed Pin From Net: NetName=ADC_R_OUT Pin=C23-1
+Removed Pin From Net: NetName=ADC_L_OUT Pin=R23-2
+Removed Pin From Net: NetName=KT_L_H Pin=R26-1
+Removed Pin From Net: NetName=ADC_R_OUT Pin=R33-2
+Removed Pin From Net: NetName=KT_R_H Pin=R34-1
+Added Pin To Net: NetName=ADC_R_OUT Pin=C16-1
+Added Pin To Net: NetName=ADC_L_OUT Pin=C23-1
+Added Pin To Net: NetName=ADC_R_OUT Pin=R23-2
+Added Pin To Net: NetName=KT_R_H Pin=R26-1
+Added Pin To Net: NetName=ADC_L_OUT Pin=R33-2
+Added Pin To Net: NetName=KT_L_H Pin=R34-1

@@ -1,0 +1,6 @@
+Added Component: Designator=MP1(MARK)
+Added Component: Designator=MP2(MARK)
+Added Component: Designator=MP3(MARK)
+Added Member To Class: ClassName=MCU Member=Component MP1 MARK
+Added Member To Class: ClassName=MCU Member=Component MP2 MARK
+Added Member To Class: ClassName=MCU Member=Component MP3 MARK

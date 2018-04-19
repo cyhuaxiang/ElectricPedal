@@ -1,0 +1,195 @@
+Removed Pin From Net: NetName=VDD1 Pin=C44-1
+Removed Pin From Net: NetName=5V0 Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Pin From Net: NetName=ICSPDAT Pin=P3-4
+Removed Pin From Net: NetName=ICSPCLK Pin=P3-5
+Removed Pin From Net: NetName=ICSPCLK Pin=R42-1
+Removed Pin From Net: NetName=ICSPDAT Pin=R48-2
+Removed Pin From Net: NetName=5V0 Pin=R50-1
+Removed Pin From Net: NetName=VHALL_SEN Pin=U1-2
+Removed Pin From Net: NetName=VBAT_SEN Pin=U1-3
+Removed Pin From Net: NetName=ADC_R_OUT Pin=U1-4
+Removed Pin From Net: NetName=ADC_L_OUT Pin=U1-5
+Removed Pin From Net: NetName=VCAP Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=OSC_IN Pin=U1-9
+Removed Pin From Net: NetName=OSC_OUT Pin=U1-10
+Removed Pin From Net: NetName=RELAY_L_C2 Pin=U1-11
+Removed Pin From Net: NetName=RELAY_L_C1 Pin=U1-12
+Removed Pin From Net: NetName=RELAY_L_SENSE_C2 Pin=U1-13
+Removed Pin From Net: NetName=RELAY_L_SENSE_C1 Pin=U1-14
+Removed Pin From Net: NetName=RELAY_R_C2 Pin=U1-15
+Removed Pin From Net: NetName=RELAY_R_SENSE_C2 Pin=U1-16
+Removed Pin From Net: NetName=RELAY_R_SENSE_C1 Pin=U1-17
+Removed Pin From Net: NetName=RELAY_R_C1 Pin=U1-18
+Removed Pin From Net: NetName=GND Pin=U1-19
+Removed Pin From Net: NetName=5V0 Pin=U1-20
+Removed Pin From Net: NetName=PUL1_SEN Pin=U1-21
+Removed Pin From Net: NetName=PUL2_SEN Pin=U1-22
+Removed Pin From Net: NetName=CANTX Pin=U1-23
+Removed Pin From Net: NetName=CANRX Pin=U1-24
+Removed Pin From Net: NetName=LIN1 Pin=U1-25
+Removed Pin From Net: NetName=CANSTBY Pin=U1-26
+Removed Pin From Net: NetName=ICSPCLK Pin=U1-27
+Removed Pin From Net: NetName=ICSPDAT Pin=U1-28
+Removed Pin From Net: NetName=VDD1 Pin=U4-8
+Removed Pin From Net: NetName=GND Pin=Y1-0
+Change Component DesignItemId : Designator=U1 Old DesignItemId=PIC18F2XK80 New DesignItemId=NUC131LC2AE
+Change Component Footprint: Designator=R2 Old Footprint=KT_10MR New Footprint=LC-2512_R
+Change Component Footprint: Designator=R3 Old Footprint=KT_10MR New Footprint=LC-2512_R
+Change Component Footprint: Designator=C2 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C3 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C6 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C7 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C8 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C10 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C11 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C12 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C13 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C14 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C15 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C16 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C17 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C18 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C19 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C20 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C21 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C22 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C23 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C24 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C25 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C26 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C27 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C28 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C29 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C30 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C31 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C38 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C39 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C41 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C42 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C43 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C44 Old Footprint=LC-0805_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=R1 Old Footprint=LC-0805_R New Footprint=LC-0603_C
+Change Component Footprint: Designator=R6 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R7 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R8 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R9 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R10 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R11 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R12 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R13 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R14 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R15 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R16 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R17 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R18 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R19 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R20 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R21 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R22 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R23 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R25 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R26 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R27 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R28 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R29 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R30 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R31 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R32 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R33 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R34 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R37 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R38 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R39 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R40 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R41 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R42 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R43 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R45 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R46 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R47 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R48 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R49 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R50 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R51 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R52 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R53 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R54 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R55 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R59 Old Footprint=LC-0805_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=C4 Old Footprint=LC-1210_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C5 Old Footprint=LC-1210_C New Footprint=LC-0603_C
+Change Component Comment : Designator=R7 Old Comment=1K New Comment=4.7K
+Change Component Comment : Designator=R8 Old Comment=1K New Comment=4.7K
+Change Component Comment : Designator=R9 Old Comment=1K New Comment=4.7K
+Change Component Comment : Designator=R10 Old Comment=1K New Comment=4.7K
+Change Component Comment : Designator=Y1 Old Comment=8MHz New Comment=12MHz
+Change Component Comment : Designator=C10 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=C3 Old Comment=10uF New Comment=10uF/10V
+Change Component Comment : Designator=C38 Old Comment=30pF New Comment=20pF
+Change Component Comment : Designator=C39 Old Comment=30pF New Comment=20pF
+Change Component Comment : Designator=C7 Old Comment=100nF New Comment=10uF/10V
+Change Component Comment : Designator=P3 Old Comment=DEBUG New Comment=ICE
+Change Component Comment : Designator=U4 Old Comment=LM2904DR2G New Comment=LM2904DR
+Change Component Comment : Designator=D6 Old Comment=MMBZ27V New Comment=MMBZ27VALT1G
+Change Component Comment : Designator=D7 Old Comment=MMBZ27V New Comment=MMBZ27VALT1G
+Change Component Comment : Designator=U1 Old Comment=PIC18F2XK80 New Comment=NUC131LC2AE
+Change Component Comment : Designator=D3 Old Comment=SMA6J15C New Comment=SMBJ15C
+Change Component Comment : Designator=U3 Old Comment=TJA1042 New Comment=TJA1042T
+Change Component Comment : Designator=U2 Old Comment=TPS709-Q1 New Comment=SPX5205M5-L-5-0
+Change Component Description : Designator=Y1 Old Description=ÌùÆ¬¾§Õñ New Description=CSTCE12M0G15C99-R0
+Added Component: Designator=L1(LC-0603_L)
+Added Component: Designator=R58(LC-0603_R)
+Added Pin To Net: NetName=5V0 Pin=L1-2
+Added Pin To Net: NetName=ICSPDAT Pin=P3-2
+Added Pin To Net: NetName=ICSPCLK Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=5V0 Pin=R58-1
+Added Pin To Net: NetName=LIN1 Pin=U1-6
+Added Pin To Net: NetName=VCAP Pin=U1-10
+Added Pin To Net: NetName=5V0 Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=RELAY_L_C2 Pin=U1-13
+Added Pin To Net: NetName=RELAY_L_C1 Pin=U1-14
+Added Pin To Net: NetName=RELAY_R_C1 Pin=U1-15
+Added Pin To Net: NetName=RELAY_R_C2 Pin=U1-16
+Added Pin To Net: NetName=CANRX Pin=U1-17
+Added Pin To Net: NetName=CANTX Pin=U1-18
+Added Pin To Net: NetName=CANSTBY Pin=U1-19
+Added Pin To Net: NetName=RELAY_L_SENSE_C1 Pin=U1-21
+Added Pin To Net: NetName=RELAY_L_SENSE_C2 Pin=U1-22
+Added Pin To Net: NetName=RELAY_R_SENSE_C1 Pin=U1-23
+Added Pin To Net: NetName=RELAY_R_SENSE_C2 Pin=U1-24
+Added Pin To Net: NetName=PUL2_SEN Pin=U1-27
+Added Pin To Net: NetName=PUL1_SEN Pin=U1-28
+Change Net Name : Old Net Name=5V0 New Net Name=DVDD5
+Change Net Name : Old Net Name=VDD1 New Net Name=VPUL
+Change Net Name : Old Net Name=VDD2 New Net Name=VRLY
+Added Pin To Net: NetName=5V0 Pin=R50-1
+Added Net: Name=5V0
+Added Pin To Net: NetName=AVDD5 Pin=L1-1
+Added Net: Name=AVDD5
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R58-2
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=RESET Pin=P3-4
+Added Pin To Net: NetName=RESET Pin=R6-1
+Added Net: Name=RESET
+Added Pin To Net: NetName=RX1 Pin=U1-8
+Added Net: Name=RX1
+Added Pin To Net: NetName=TX2 Pin=U1-9
+Added Net: Name=TX2
+Added Pin To Net: NetName=VBAT_SEN_EN Pin=R42-1
+Added Pin To Net: NetName=VBAT_SEN_EN Pin=U1-5
+Added Net: Name=VBAT_SEN_EN
+Added Pin To Net: NetName=VDD1 Pin=C44-1
+Added Pin To Net: NetName=VDD1 Pin=U4-8
+Added Net: Name=VDD1
+Added Pin To Net: NetName=VHALL_SEN_EN Pin=R48-2
+Added Pin To Net: NetName=VHALL_SEN_EN Pin=U1-4
+Added Net: Name=VHALL_SEN_EN
+Added Member To Class: ClassName=MCU Member=Component L1 BLM18PG181SN1D
+Added Member To Class: ClassName=MCU Member=Component R58 NC
+Added Room: Name=MCU
+Added Room: Name=MOUDLAR

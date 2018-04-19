@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RELAY_R_SENSE_C2 Pin=C12-1
+Removed Pin From Net: NetName=RELAY_R_SENSE_C2 Pin=R16-2
+Removed Pin From Net: NetName=RELAY_R_SENSE_C2 Pin=R19-2
+Added Pin To Net: NetName=RELAY_R_SENSE_C1 Pin=C12-1
+Added Pin To Net: NetName=RELAY_R_SENSE_C1 Pin=R16-2
+Added Pin To Net: NetName=RELAY_R_SENSE_C1 Pin=R19-2

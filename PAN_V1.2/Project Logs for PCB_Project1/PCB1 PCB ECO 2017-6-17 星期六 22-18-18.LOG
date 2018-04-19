@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PUL1_SEN Pin=U8-18
+Removed Pin From Net: NetName=PUL2_SEN Pin=U8-19
+Added Pin To Net: NetName=PUL1_SEN Pin=U8-41
+Added Pin To Net: NetName=PUL2_SEN Pin=U8-42

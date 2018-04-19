@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VHALL_SEN_EN Pin=U1-4
+Removed Pin From Net: NetName=VBAT_SEN_EN Pin=U1-5
+Added Pin To Net: NetName=VHALL_SEN_EN Pin=U1-25
+Added Pin To Net: NetName=VBAT_SEN_EN Pin=U1-26

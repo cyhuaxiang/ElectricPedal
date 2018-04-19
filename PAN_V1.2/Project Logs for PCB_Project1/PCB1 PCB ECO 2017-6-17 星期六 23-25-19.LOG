@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VSEN Pin=U8-16
+Removed Pin From Net: NetName=VSEN_EN Pin=U8-17
+Removed Pin From Net: NetName=BAT_SEN_EN Pin=U8-34
+Removed Pin From Net: NetName=BAT_SEN Pin=U8-37
+Added Pin To Net: NetName=VSEN Pin=U8-14
+Added Pin To Net: NetName=VSEN_EN Pin=U8-15
+Added Pin To Net: NetName=BAT_SEN Pin=U8-16
+Added Pin To Net: NetName=BAT_SEN_EN Pin=U8-17

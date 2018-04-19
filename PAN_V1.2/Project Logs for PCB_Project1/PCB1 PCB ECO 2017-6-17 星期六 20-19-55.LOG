@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=RELAY_R_1B Pin=D5-1
+Removed Pin From Net: NetName=RELAY_R_2B Pin=D5-2
+Removed Pin From Net: NetName=RELAY_R_1B Pin=Q3-3
+Removed Pin From Net: NetName=RELAY_R_2B Pin=Q4-3
+Removed Pin From Net: NetName=RELAY_R_1 Pin=R9-1
+Removed Pin From Net: NetName=RELAY_R_2 Pin=R10-1
+Added Pin To Net: NetName=RELAY_R_2B Pin=D5-1
+Added Pin To Net: NetName=RELAY_R_1B Pin=D5-2
+Added Pin To Net: NetName=RELAY_R_2B Pin=Q3-3
+Added Pin To Net: NetName=RELAY_R_1B Pin=Q4-3
+Added Pin To Net: NetName=RELAY_R_2 Pin=R9-1
+Added Pin To Net: NetName=RELAY_R_1 Pin=R10-1

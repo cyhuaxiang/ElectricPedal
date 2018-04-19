@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=OSC_IN Pin=C38-1
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=OSC_OUT Pin=C39-1
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=OSC_OUT Pin=Y1-1
+Removed Pin From Net: NetName=OSC_IN Pin=Y1-2
+Removed Member From Class: ClassName=MCU Member=C38
+Removed Member From Class: ClassName=MCU Member=C39
+Removed Member From Class: ClassName=MCU Member=Y1
+Added Component: Designator=Y?(SMD_8M_3)
+Added Pin To Net: NetName=OSC_IN Pin=Y?-1
+Added Pin To Net: NetName=OSC_OUT Pin=Y?-2
+Added Pin To Net: NetName=GND Pin=Y?-3
+Added Member To Class: ClassName=MCU Member=Component Y? CSTCE12M0G15C99-R0

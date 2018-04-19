@@ -1,0 +1,166 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=5V0 Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=5V0 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=5V0 Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R60-2
+Removed Pin From Net: NetName=GND Pin=R62-2
+Removed Pin From Net: NetName=GND Pin=U1-0
+Removed Pin From Net: NetName=VSUP Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=5V0 Pin=U1-5
+Removed Pin From Net: NetName=5V0 Pin=U2-1
+Removed Pin From Net: NetName=OSC_IN Pin=U8-5
+Removed Pin From Net: NetName=OSC_OUT Pin=U8-6
+Removed Pin From Net: NetName=GND Pin=U8-8
+Removed Pin From Net: NetName=VSEN_IN Pin=U8-14
+Removed Pin From Net: NetName=BAT_SEN Pin=U8-16
+Removed Pin From Net: NetName=ADC_R_OUT Pin=U8-18
+Removed Pin From Net: NetName=ADC_L_OUT Pin=U8-19
+Removed Pin From Net: NetName=LIN2 Pin=U8-22
+Removed Pin From Net: NetName=GND Pin=U8-23
+Removed Pin From Net: NetName=LIN1 Pin=U8-25
+Removed Pin From Net: NetName=RELAY_L_SENSE_C2 Pin=U8-30
+Removed Pin From Net: NetName=RELAY_L_SENSE_C1 Pin=U8-31
+Removed Pin From Net: NetName=RELAY_R_SENSE_C2 Pin=U8-32
+Removed Pin From Net: NetName=RELAY_R_SENSE_C1 Pin=U8-33
+Removed Pin From Net: NetName=GND Pin=U8-35
+Removed Pin From Net: NetName=PUL1_SEN Pin=U8-39
+Removed Pin From Net: NetName=PUL2_SEN Pin=U8-40
+Removed Pin From Net: NetName=CANSTBY Pin=U8-41
+Removed Pin From Net: NetName=CANRX Pin=U8-45
+Removed Pin From Net: NetName=CANTX Pin=U8-46
+Removed Pin From Net: NetName=GND Pin=U8-47
+Removed Pin From Net: NetName=GND Pin=Y1-0
+Removed Pin From Net: NetName=OSC_OUT Pin=Y2-1
+Removed Pin From Net: NetName=OSC_IN Pin=Y2-2
+Removed Member From Class: ClassName=Sheet1 Member=C3
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Removed Member From Class: ClassName=Sheet1 Member=C7
+Removed Member From Class: ClassName=Sheet2 Member=C32
+Removed Member From Class: ClassName=Sheet2 Member=C33
+Removed Member From Class: ClassName=Sheet2 Member=C34
+Removed Member From Class: ClassName=Sheet2 Member=C35
+Removed Member From Class: ClassName=Sheet2 Member=C36
+Removed Member From Class: ClassName=Sheet2 Member=C37
+Removed Member From Class: ClassName=Sheet2 Member=C40
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet2 Member=R58
+Removed Member From Class: ClassName=Sheet2 Member=R60
+Removed Member From Class: ClassName=Sheet2 Member=R61
+Removed Member From Class: ClassName=Sheet2 Member=R62
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Removed Member From Class: ClassName=Sheet2 Member=U8
+Removed Member From Class: ClassName=Sheet2 Member=Y2
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Header 4 New DesignItemId=Header 5
+Change Component DesignItemId : Designator=U1 Old DesignItemId=TLE4275Q New DesignItemId=PIC18F2XK80
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X4 New Footprint=HDR1X5
+Change Component Footprint: Designator=RLY1 Old Footprint=HFKD New Footprint=HFKA
+Change Component Footprint: Designator=RLY2 Old Footprint=HFKD New Footprint=HFKA
+Change Component Footprint: Designator=C6 Old Footprint=LC-CASE-B_3528 New Footprint=LC-0805_C
+Change Component Footprint: Designator=U1 Old Footprint=LC-TO-263-5 New Footprint=LC-SSOP-28_208mil
+Change Component Comment : Designator=R6 Old Comment=0 New Comment=100R
+Change Component Comment : Designator=R1 Old Comment=5K New Comment=10K
+Change Component Comment : Designator=C6 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=R45 Old Comment=33K New Comment=10K
+Change Component Comment : Designator=R18 Old Comment=33K New Comment=47K
+Change Component Comment : Designator=R19 Old Comment=33K New Comment=47K
+Change Component Comment : Designator=R29 Old Comment=33K New Comment=47K
+Change Component Comment : Designator=R30 Old Comment=33K New Comment=47K
+Change Component Comment : Designator=C3 Old Comment=47nF New Comment=10uF
+Change Component Comment : Designator=R46 Old Comment=100K New Comment=33K
+Change Component Comment : Designator=R37 Old Comment=100K New Comment=47K
+Change Component Comment : Designator=R38 Old Comment=100K New Comment=47K
+Change Component Comment : Designator=R47 Old Comment=100K New Comment=47K
+Change Component Comment : Designator=D4 Old Comment=BAV70T New Comment=BAV70
+Change Component Comment : Designator=D5 Old Comment=BAV70T New Comment=BAV70
+Change Component Comment : Designator=P3 Old Comment=COM New Comment=DEBUG
+Change Component Comment : Designator=U2 Old Comment=SPX3819M5-L-3.3 New Comment=TPS709-Q1
+Change Component Comment : Designator=U1 Old Comment=TLE4275Q New Comment=PIC18F2XK80
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=5V0 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=5V0 Pin=C8-2
+Added Pin To Net: NetName=5V0 Pin=C9-2
+Added Pin To Net: NetName=5V0 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=5V0 Pin=R50-1
+Added Pin To Net: NetName=VSEN_IN Pin=U1-2
+Added Pin To Net: NetName=BAT_SEN Pin=U1-3
+Added Pin To Net: NetName=ADC_L_OUT Pin=U1-4
+Added Pin To Net: NetName=ADC_R_OUT Pin=U1-5
+Added Pin To Net: NetName=LIN2 Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=OSC_IN Pin=U1-9
+Added Pin To Net: NetName=OSC_OUT Pin=U1-10
+Added Pin To Net: NetName=RELAY_L_SENSE_C2 Pin=U1-13
+Added Pin To Net: NetName=RELAY_L_SENSE_C1 Pin=U1-14
+Added Pin To Net: NetName=RELAY_R_SENSE_C2 Pin=U1-16
+Added Pin To Net: NetName=RELAY_R_SENSE_C1 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=5V0 Pin=U1-20
+Added Pin To Net: NetName=PUL1_SEN Pin=U1-21
+Added Pin To Net: NetName=PUL2_SEN Pin=U1-22
+Added Pin To Net: NetName=CANTX Pin=U1-23
+Added Pin To Net: NetName=CANRX Pin=U1-24
+Added Pin To Net: NetName=LIN1 Pin=U1-25
+Added Pin To Net: NetName=CANSTBY Pin=U1-26
+Added Pin To Net: NetName=VSUP Pin=U2-1
+Added Pin To Net: NetName=VSUP Pin=U2-3
+Added Pin To Net: NetName=5V0 Pin=U2-5
+Change Net Name : Old Net Name=BAT_SEN New Net Name=VBAT_SEN
+Change Net Name : Old Net Name=VSEN New Net Name=VHALL
+Change Net Name : Old Net Name=VSEN_IN New Net Name=VHALL_SEN
+Added Pin To Net: NetName=ICSPCLK Pin=P3-5
+Added Pin To Net: NetName=ICSPCLK Pin=R42-1
+Added Pin To Net: NetName=ICSPCLK Pin=U1-27
+Added Net: Name=ICSPCLK
+Added Pin To Net: NetName=ICSPDAT Pin=P3-4
+Added Pin To Net: NetName=ICSPDAT Pin=R48-2
+Added Pin To Net: NetName=ICSPDAT Pin=U1-28
+Added Net: Name=ICSPDAT
+Added Pin To Net: NetName=MCLR Pin=P3-1
+Added Pin To Net: NetName=MCLR Pin=R6-1
+Added Pin To Net: NetName=MCLR Pin=U1-1
+Added Net: Name=MCLR
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R1-1
+Added Pin To Net: NetName=NetC7_1 Pin=R6-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=RELAY_L_C1 Pin=R8-1
+Added Pin To Net: NetName=RELAY_L_C1 Pin=U1-12
+Added Net: Name=RELAY_L_C1
+Added Pin To Net: NetName=RELAY_L_C2 Pin=R7-1
+Added Pin To Net: NetName=RELAY_L_C2 Pin=U1-11
+Added Net: Name=RELAY_L_C2
+Added Pin To Net: NetName=RELAY_R_C1 Pin=R10-1
+Added Pin To Net: NetName=RELAY_R_C1 Pin=U1-18
+Added Net: Name=RELAY_R_C1
+Added Pin To Net: NetName=RELAY_R_C2 Pin=R9-1
+Added Pin To Net: NetName=RELAY_R_C2 Pin=U1-15
+Added Net: Name=RELAY_R_C2
+Added Pin To Net: NetName=VCAP Pin=C3-1
+Added Pin To Net: NetName=VCAP Pin=U1-6
+Added Net: Name=VCAP
+Change Class Name : Old Net Name=Sheet1 New Net Name=MOUDLAR
+Change Class Name : Old Net Name=Sheet2 New Net Name=MCU
+Added Member To Class: ClassName=MCU Member=Component C3 10uF
+Added Member To Class: ClassName=MCU Member=Component C6 100nF
+Added Member To Class: ClassName=MCU Member=Component C7 100nF
+Added Member To Class: ClassName=MCU Member=Component R1 10K
+Added Member To Class: ClassName=MCU Member=Component R6 100R
+Added Member To Class: ClassName=MCU Member=Component U1 PIC18F2XK80
+Added Room: Name=MCU
+Added Room: Name=MOUDLAR

@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=U1 Old Footprint=LC-SSOP-28_208mil New Footprint=LC-LQFP-48_7x7x05P
+Added Pin To Net: NetName=ICSPDAT Pin=U1-29
+Added Pin To Net: NetName=ICSPCLK Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=VHALL_SEN Pin=U1-32
+Added Pin To Net: NetName=VBAT_SEN Pin=U1-33
+Added Pin To Net: NetName=ADC_R_OUT Pin=U1-34
+Added Pin To Net: NetName=ADC_L_OUT Pin=U1-35
+Added Pin To Net: NetName=AVDD5 Pin=U1-40
+Added Pin To Net: NetName=OSC_OUT Pin=U1-44
+Added Pin To Net: NetName=OSC_IN Pin=U1-45
+Added Pin To Net: NetName=RESET Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47

@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: E:\FangCunApply\Case\Æû³µµç¶¯½ÅÌ¤°å\PCB\PAN_V1.2\PAN.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_polygon|Scope=Board|Minimum=15.75

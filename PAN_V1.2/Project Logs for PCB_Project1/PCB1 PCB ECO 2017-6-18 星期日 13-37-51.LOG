@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=PUL1_SEN Pin=U8-41
+Removed Pin From Net: NetName=PUL2_SEN Pin=U8-42
+Removed Pin From Net: NetName=CANSTBY Pin=U8-43
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=P?(HDR1X4)
+Added Pin To Net: NetName=3V3 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=3V3 Pin=P?-4
+Added Pin To Net: NetName=PUL1_SEN Pin=U8-39
+Added Pin To Net: NetName=PUL2_SEN Pin=U8-40
+Added Pin To Net: NetName=CANSTBY Pin=U8-41
+Added Pin To Net: NetName=SWCLK Pin=P?-4
+Added Pin To Net: NetName=SWCLK Pin=U8-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P?-3
+Added Pin To Net: NetName=SWDIO Pin=U8-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=USART1_RXD Pin=P?-3
+Added Pin To Net: NetName=USART1_RXD Pin=U8-43
+Added Net: Name=USART1_RXD
+Added Pin To Net: NetName=USART1_TXD Pin=P?-2
+Added Pin To Net: NetName=USART1_TXD Pin=U8-42
+Added Net: Name=USART1_TXD
+Added Member To Class: ClassName=Sheet2 Member=Component P? SWD
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

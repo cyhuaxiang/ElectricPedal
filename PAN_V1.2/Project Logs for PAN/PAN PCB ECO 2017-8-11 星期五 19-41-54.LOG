@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=D1 Old Footprint=LC-SMB(DO-214AA)_S1 New Footprint=LC-SMA(DO-214AC)_S1
+Change Component Footprint: Designator=D2 Old Footprint=LC-SMB(DO-214AA)_S1 New Footprint=LC-SMA(DO-214AC)_S1
+Change Component Footprint: Designator=D3 Old Footprint=LC-SMB(DO-214AA)_S1 New Footprint=LC-SMA(DO-214AC)_S1
+Change Component Comment : Designator=D1 Old Comment=S3GB New Comment=SS24A
+Change Component Comment : Designator=D2 Old Comment=S3GB New Comment=SS24A
+Change Component Comment : Designator=D3 Old Comment=SMBJ15C New Comment=SMAJ15C
+Added Component: Designator=P?(HDR1X4)
+Added Pin To Net: NetName=DVDD5 Pin=P?-1
+Added Pin To Net: NetName=RX1 Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=TX1 Pin=P?-3
+Added Net: Name=TX1
+Added Member To Class: ClassName=MCU Member=Component P? DEBUG

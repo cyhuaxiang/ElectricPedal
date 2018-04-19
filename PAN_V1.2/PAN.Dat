@@ -1,0 +1,40 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PAN.PrjPCB|ReportField=ProjectFullPath~E:\FangCunApply\Case\汽车电动脚踏板\PCB\PAN_V1.2\PAN.PrjPCB|ReportField=Title~Bill of Materials For Project [PAN.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~124|ReportField=ReportTime~9:55:18|ReportField=ReportDate~2017/8/14 星期一|ReportField=ReportDateTime~2017/8/14 星期一 9:55:18|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/8/14 星期一|ReportField=CurrentTime~9:55:00|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\FangCunApply\Case\汽车电动脚踏板\PCB\PAN_V1.2\MCU.SchDoc|ReportField=DocumentName~MCU.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/8/14 星期一|ReportField=Organization~|ReportField=ProjectName~PAN.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PAN.PrjPCB|ReportField=DataSourceFullPath~E:\FangCunApply\Case\汽车电动脚踏板\PCB\PAN_V1.2\PAN.PrjPCB
+220uF/35V|Polarized Capacitor (Radial)|C1|cap10x12.5|Cap Pol1|1
+100nF|贴片电容|C2, C6, C8, C11, C12, C14, C15, C16, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C41, C44|LC-0603_C|0805 6pF (6R0) 0.25pF 50V|24
+10uF/10V|贴片电容|C3, C7|LC-0603_C|0805 6pF (6R0) 0.25pF 50V|2
+100nF|贴片电容|C4, C5|LC-1210_C|0805 6pF (6R0) 0.25pF 50V|2
+10uF|贴片电容|C9|LC-CASE-B_3528|0805 6pF (6R0) 0.25pF 50V|1
+100pF|贴片电容|C13, C17, C42, C43|LC-0603_C|0805 6pF (6R0) 0.25pF 50V|4
+SS24A|二极管|D1, D2|LC-SMA(DO-214AC)_S1|SMA(DO-214AC) SS54|2
+SMAJ15C|TVS|D3|LC-SMA(DO-214AC)_S1|SMB/DO-214AA P6SMB6.8CA|1
+BAV70|开关二极管|D4, D5|LC-SOT-23(SOT-23-3)|SOT-23 BAV70 A4|2
+MMBZ27VALT1G|开关二极管|D6, D7|LC-SOT-23(SOT-23-3)|SOT-23 BAV70 A4|2
+BLM18PG181SN1D|Inductor|L1|LC-0603_L|Inductor|1
+MARK||MP1, MP2, MP3|MARK|MARK|3
+PedalConner||P1, P2|padel_con|PedalConner|2
+ICE|Header, 5-Pin|P3|HDR1X5|Header 5|1
+DEBUG|Header, 4-Pin|P4|HDR1X4|Header 4|1
+BC817|三极管|Q1, Q2, Q3, Q4, Q6|LC-SOT-23(SOT-23-3)|SOT-23 SS8050 Y1|5
+BC807|三极管|Q5|LC-SOT-23(SOT-23-3)|SOT-23 SS8550 Y2|1
+10K|贴片电阻|R1, R11, R12, R13, R14, R23, R33, R41, R42, R43, R45, R48, R50, R51, R53, R54, R55|LC-0603_R|0805 15KΩ (1502) 1%|17
+0.01Ω|贴片电阻|R2, R3|LC-2512_R|0805 15KΩ (1502) 1%|2
+10Ω|贴片电阻|R4, R5|LC-1206_R|0805 15KΩ (1502) 1%|2
+100R|贴片电阻|R6|LC-0603_R|0805 15KΩ (1502) 1%|1
+4.7K|贴片电阻|R7, R8, R9, R10, R22, R32|LC-0603_R|0805 15KΩ (1502) 1%|6
+100K|贴片电阻|R15, R16, R27, R28|LC-0603_R|0805 15KΩ (1502) 1%|4
+47K|贴片电阻|R17, R18, R19, R29, R30, R31, R37, R38, R47, R49|LC-0603_R|0805 15KΩ (1502) 1%|10
+0|贴片电阻|R20, R21, R25|LC-0603_R|0805 15KΩ (1502) 1%|3
+120Ω|贴片电阻|R24|LC-1206_R|0805 15KΩ (1502) 1%|1
+2K|贴片电阻|R26, R34|LC-0603_R|0805 15KΩ (1502) 1%|2
+1.2K|贴片电阻|R35, R36, R57|LC-1206_R|0805 15KΩ (1502) 1%|3
+33K|贴片电阻|R39, R40, R46, R52|LC-0603_R|0805 15KΩ (1502) 1%|4
+100Ω|贴片电阻|R44, R56|LC-2010_R|0805 15KΩ (1502) 1%|2
+NC|贴片电阻|R58|LC-0603_R|0805 15KΩ (1502) 1%|1
+1M|贴片电阻|R59|LC-0603_R|0805 15KΩ (1502) 1%|1
+JQC-16F-12VDC||RLY1, RLY2|HFKA|JQC-16F-12VDC|2
+NUC131LC2AE||U1|LC-LQFP-48_7x7x05P|NUC131LC2AE|1
+HT7550-1|低压差线性稳压(LDO)|U2|LC-SOT-89(SOT-89-3)|SOT-89 78L05G-AB3-R|1
+TJA1042T||U3|LC-SOIC-8_150mil|TJA1042|1
+LM2904DR|运放|U4|LC-SOIC-8_150mil|LM2904DR2G|1
+PUMD3||U5, U6, U7|LC-SOT-363|PUMD3|3
+CSTCE12M0G15C99-R0||Y1|SMD_8M_3|CSTC|1

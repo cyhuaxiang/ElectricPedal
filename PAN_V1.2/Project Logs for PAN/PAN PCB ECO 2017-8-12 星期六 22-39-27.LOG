@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=VSUP Pin=U2-1
+Removed Pin From Net: NetName=DVDD5 Pin=U2-5
+Removed Member From Class: ClassName=MOUDLAR Member=C10
+Change Component DesignItemId : Designator=U2 Old DesignItemId=SPX3819M5-L-3.3 New DesignItemId=SOT-89 78L05G-AB3-R
+Change Component Footprint: Designator=U2 Old Footprint=LC-SOT-23-5 New Footprint=LC-SOT-89(SOT-89-3)
+Change Component Comment : Designator=U2 Old Comment=SPX5205M5-L-5-0 New Comment=HT7550-1
+Added Pin To Net: NetName=DVDD5 Pin=U2-1

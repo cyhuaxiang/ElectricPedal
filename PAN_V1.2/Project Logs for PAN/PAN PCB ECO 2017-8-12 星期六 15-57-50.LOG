@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VHALL_SEN_EN Pin=U1-25
+Removed Pin From Net: NetName=VBAT_SEN_EN Pin=U1-26
+Removed Pin From Net: NetName=PUL2_SEN Pin=U1-27
+Removed Pin From Net: NetName=PUL1_SEN Pin=U1-28
+Added Pin To Net: NetName=PUL2_SEN Pin=U1-25
+Added Pin To Net: NetName=PUL1_SEN Pin=U1-26
+Added Pin To Net: NetName=VHALL_SEN_EN Pin=U1-27
+Added Pin To Net: NetName=VBAT_SEN_EN Pin=U1-28
